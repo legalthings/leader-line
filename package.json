@@ -15,11 +15,14 @@
     "svg"
   ],
   "main": "leader-line.min.js",
+  "types": "typings.d.ts",
+  "unpkg": "src/leader-line.js",
   "files": [
     "leader-line.min.js",
     "bower.json",
     "typings.d.ts",
-    "main.ts"
+    "main.ts",
+    "src/**/*.js"
   ],
   "devDependencies": {
     "anim-event": "^1.0.15",
