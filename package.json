@@ -18,7 +18,8 @@
   "files": [
     "leader-line.min.js",
     "bower.json",
-    "leader-line.d.ts"  
+    "typings.d.ts",
+    "main.ts"
   ],
   "devDependencies": {
     "anim-event": "^1.0.15",
